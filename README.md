@@ -31,6 +31,11 @@
 <img src=https://github.com/user-attachments/assets/0269df3b-0a6e-480e-b038-315bce7e9aba width="700">
 </div>
 
+- DB는 AWS EC2에서 Docker 컨테이너로 Oracle DB를 실행
+- DB에 저장되어있는 데이터를 spring boot mybatis로 연결하여서 mvc 패턴에 따라 설계
+- 파이썬 웹프레임워크 fastapi로 spring boot 프로젝트와 ai 모델을 연동
+- 프론트엔드는 html, js, css, jquery, thymeleaf를 활용
+
 <br>
 <h2 id=3>🎯 ERD</h2>
 <div align="center">
