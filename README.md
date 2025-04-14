@@ -113,8 +113,8 @@
 | Java             | 17          |
 | STS              | 4.26.0      |
 | Spring Boot      | 3.3.7       |
-| MyBatis          | 3.0.4       |
-| Thymeleaf        | 3.3.0       |
+| MyBatis          | 3.5.17      |
+| Thymeleaf        | 3.1.3       |
 | Oracle DB        | 21c(aws ec2 - 11g)        |
 | jQuery           | 3.7.1       |
 | Lombok           | 1.18.36     |
@@ -555,7 +555,7 @@
 <br><br>
 <h2 id=11>🎯 회고</h2>
 
-- Bootstrap, Chart.js, DataTables 등의 다양한 외부 라이브러리를 활용해볼 수 있었습니다.
-- Thymeleaf를 보다 능숙하게 다룰 수 있게 되었습니다.
-- Git을 관리하는 과정에서 버전 관리 시스템에 대한 이해도가 한층 높아졌습니다.
-- 다양한 기능을 구현하면서 전반적인 프론트엔드, 백엔드 기술 역량이 향상되었습니다.
+- Bootstrap, Chart.js, DataTables 라이브러리를 활용해볼 수 있었습니다.
+- Thymeleaf의 layout 기능과 th:replace, layout:fragment 등을 활용하여 헤더, 푸터, 알림 영역 등 공통 UI를 분리하고 재사용하는 데 익숙해졌습니다. 이를 통해 템플릿의 유지보수성과 확장성을 높일 수 있었습니다.
+- Git을 관리하는 과정에서 충돌 해결 방법, merge 및 branch 에 대한 이해도가 한층 높아졌습니다.
+- Notion을 사용해 프로젝트 일정과 기능 리스트를 체계적으로 관리하여 팀원들과 원활한 협업이 가능했습니다.
