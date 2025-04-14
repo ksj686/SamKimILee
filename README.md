@@ -89,7 +89,7 @@
 <h2 id=6>🎯 기술스택</h2>
 
 ### 🖥️ 개발 환경
- <img src="https://img.shields.io/badge/Spring Tools 4-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/OracleDB 21c Express-FAA61A?style=for-the-badge&logo=oracle&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring Tools 4-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/OracleDB 21c Express-FAA61A?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 <br>
 
 ### 🔧 도구 및 버전 관리
@@ -120,8 +120,6 @@
 | Lombok           | 1.18.36     |
 | Python           | 3.12.6      |
 | FastAPI          | 0.115.5     |
-| browser          | Google Chrome     |
-
 
 <br><br>
 <h2 id=7>🎯 Git-flow </h2>
