@@ -103,6 +103,25 @@
 
 ### 📝 언어
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br>
+
+### 🛠 사용 기술 버전
+
+| 기술             | 버전        |
+|------------------|-------------|
+| Git              | 2.47.0      |
+| Java             | 17          |
+| STS              | 4.26.0      |
+| Spring Boot      | 3.3.7       |
+| MyBatis          | 3.0.4       |
+| Thymeleaf        | 3.3.0       |
+| Oracle DB        | 21c(aws ec2 - 11g)        |
+| jQuery           | 3.7.1       |
+| Lombok           | 1.18.36     |
+| Python           | 3.12.6      |
+| FastAPI          | 0.115.5     |
+| browser          | Google Chrome     |
+
 
 <br><br>
 <h2 id=7>🎯 Git-flow </h2>
