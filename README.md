@@ -187,6 +187,16 @@
 
 <br>
 
+### 🔥 로그인 체크 인터셉터 구현
+> 🚀 **해결:** 
+- 페이지 접근 시 로그인 인증을 처리하기 위해 LoginCheckInterceptor 등록
+- 클라이언트 요청이 들어오면, WebConfig 클래스에 등록된 LoginCheckInterceptor 실행
+- addPathPatterns로 인터셉터가 적용될 URL을 설정하고, excludePathPatterns로 인증 예외 URL을 지정
+- preHandle에서 세션을 확인해 ID 존재 여부 체크
+- 로그인되지 않은 상태에서 인증이 필요한 페이지에 접근할 경우, 홈 화면으로 리다이렉트
+
+<br>
+
 ### 🔥 정기 작업 자동화(스케줄러) - 1년 이상 사용하지 않은 사용자 휴면 계정으로 전환
 > 🚀 **해결:** 
 - 원활한 테스트를 위해 URL 호출 방식으로 구현.
